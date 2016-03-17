@@ -2,7 +2,7 @@
 ## Generate App Icons for iOS & watchOS
 For app developers who create app icons for use in XCode asset catalogs, this Photoshop CC-compatible PSD provides a single embedded master image for generating a directory of derived image sizes.
 
-<img src="generate-icons-ios7-watchos2-preview.png" alt="Preview of PSD" style="width: 256px" />
+![Preview of PSD](generate-icons-ios7-watchos2-preview.png)
 
 Use File ▶ Generate ▶ Image Assets to generate images in Adobe Photoshop CC 14+.
 
